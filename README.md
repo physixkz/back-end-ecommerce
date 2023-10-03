@@ -21,6 +21,10 @@ This is the back end for an e-commerce website that utilizes the latest technolo
 
 ## Installation
 
+Here is a quick video on how to get this application started:
+
+    https://drive.google.com/file/d/1R9boIapfuEpNwZn7dtLGbPt6EX1U1pTt/view
+
 To set up the project locally, first make sure you clone the repository to your machine by running the following command in terminal in the directory you want the project in:
 
 git clone git@github.com:physixkz/back-end-ecommerce.git
